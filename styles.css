@@ -1,11 +1,20 @@
 .buttons {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  border-radius: 6px;
+  padding: 4px 26px;
+  margin-bottom: 2.5px;
 }
 
 .txt {
-  color: rgba(252, 242, 219, 0.948);
+  color: rgb(255, 247, 232);
 }
 
 .bg {
   background-color: rgba(65, 143, 182, 0.241);
+}
+
+.b {
+  font-size: medium;
+
+  padding: 6px;
 }
