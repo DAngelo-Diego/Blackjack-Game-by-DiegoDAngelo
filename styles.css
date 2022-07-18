@@ -1,3 +1,11 @@
 .buttons {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+.txt {
+  color: rgba(255, 236, 193, 0.948);
+}
+
+.bg {
+  background-color: rgba(65, 143, 182, 0.241);
+}
