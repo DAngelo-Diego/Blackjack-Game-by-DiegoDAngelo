@@ -48,12 +48,12 @@ function renderGame() {
   }
   sumEL.textContent = "Total: " + sum;
   if (sum <= 20) {
-    message = "Another Card?";
+    message = "Another Card?🤔";
   } else if (sum === 21) {
-    message = "You won!";
+    message = "You won!😎🤘";
     ganaste = true;
   } else {
-    message = "You are out!";
+    message = "You are out!😔";
     isAlive = false;
   }
   messageEl.textContent = message;
